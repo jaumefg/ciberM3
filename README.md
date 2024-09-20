@@ -279,3 +279,6 @@ La gràfica següent mostra la rellevància dels llenguatges de programació exi
 ![Índex TIOBE](img/tiobe.png)
 
 Font: [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)
+
+Guia instal·lació LAMP:
+[https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu)
